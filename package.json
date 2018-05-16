@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-readonly-field",
+  "name": "mongoose-readonly-plugin",
   "version": "1.0.0",
   "description": "mongoose readonly plugin",
   "main": "src/readonlyPlugin.js",
@@ -9,6 +9,10 @@
   },
   "author": "Paiboon Auengkongkatong",
   "license": "ISC",
+  "keywords": ["mongoose", "mongoose-readonly", "readonly", "plugin"],
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "chai": "^4.1.2",
     "eslint": "^4.19.1",
