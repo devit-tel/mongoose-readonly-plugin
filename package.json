@@ -1,6 +1,6 @@
 {
   "name": "mongoose-readonly-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mongoose readonly plugin",
   "main": "src/readonlyPlugin.js",
   "scripts": {
@@ -12,6 +12,10 @@
   "keywords": ["mongoose", "mongoose-readonly", "readonly", "plugin"],
   "publishConfig": {
     "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sendit-asia/mongoose-readonly-plugin.git"
   },
   "devDependencies": {
     "chai": "^4.1.2",
