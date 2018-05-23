@@ -10,7 +10,7 @@ npm install --save mongoose-readonly-plugin
 
 ### Example
 
-```
+```javascript
 const mongoose = require('mongoose')
 const readonlyPlugin = require('mongoose-readonly-plugin')
 
