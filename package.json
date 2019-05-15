@@ -8,7 +8,7 @@
     "test": "nodemon --exec mocha --recursive test"
   },
   "author": "Paiboon Auengkongkatong",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": ["mongoose", "mongoose-readonly", "readonly", "plugin"],
   "publishConfig": {
     "access": "public"
